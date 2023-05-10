@@ -33,3 +33,8 @@ The site is adapted to all types of devices, designed for sites with meynaft the
   <img src="https://github.com/arteffAA/mSite/assets/53447407/030739a0-6a30-43a5-b346-fb092dec7d65" alt="Adaptive version about of the site">
 </details>
 
+
+The site has its own control panel, to change the content, you need to import the file "ePanel.sql" in the subdirectory, then you can freely use the panel, which you can enter by domain/login.php , the standard password and login "admin" "admin"
+
+![image](https://github.com/arteffAA/mSite/assets/53447407/9d6c0d23-49ff-44ce-a27a-7f3cbf09eca6)
+
