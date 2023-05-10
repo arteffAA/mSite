@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&family=Golos+Text:wght@500&family=Inter:wght@300&family=Noto+Sans:wght@200&family=Poppins&family=Quicksand:wght@600&family=Roboto:wght@300;400&display=swap');
+
+* {
+    max-width: 1200px;
+    margin: 0% auto;
+    text-align: center;
+    font-family: 'Golos Text', sans-serif;
+
+}
+
+body {
+    background-color: #fcfcfc;
+  }
+
+a {
+    text-decoration: none;
+}

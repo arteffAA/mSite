@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    font-family: "proxima-nova-bold-italic", sans-serif;
+    margin: 0 auto;
+    background-image: url("/img/fon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+    color: white;
+}
+
+.main {
+    margin-top: -70px;
+    max-width: 1000px;
+}
+
+footer {
+    margin-top: 70px;
+}
+
+@media only screen and (max-width: 768px ) {
+
+.main {
+    margin-top: 0px;
+    max-width: 1000px;
+
+}
+
+.menu  {
+    margin-left: -29px;
+}    
+   
+}

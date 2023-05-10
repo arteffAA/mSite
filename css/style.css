@@ -1,0 +1,303 @@
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    font-family: "proxima-nova-bold-italic", sans-serif;
+    margin: 0 auto;
+    background-image: url("/img/fon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+    color: white;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu a {
+    font-size: 13px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.t {
+    position: absolute;
+    padding: 20px;
+    padding-top: 5px;
+    max-width: 150px;
+}
+
+.menu li a {
+    padding: 10px 30px;
+    border: 2px solid white;
+    border-radius: 30px;
+    white-space: nowrap;
+  }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    }
+    
+.logo-container {
+    display: flex;
+    align-items: center;
+    }
+    
+.logo-container img {
+    padding-left: 20px;
+    }
+    
+.menu ul {
+    display: flex;
+    list-style: none;
+    background-color: transparent;
+    }
+    
+.menu {
+    margin-left: 100px;
+    background-color: transparent;
+    }
+
+.menu li {
+    margin-right: 40px;
+    }
+
+.end {
+    margin-right: 90px;
+}
+
+.end li {
+    margin-right: 20px;
+}
+
+.end {
+    position: relative;
+  }
+ 
+.end-16 {
+    font-size: 18px;
+}  
+
+.end-16:after {
+    content: "+16";
+    position: absolute;
+    top: 50%;
+    right: -50px;
+    transform: translateY(-50%);
+    font-size: 18px;
+    padding: 13px;
+    border: 2px solid gray;
+    border-radius: 30px;
+  }
+
+main {
+    padding-top: 120px;
+    max-width: 700px;
+}
+
+
+h1 {
+    position: relative;
+    font-size: 60px;
+    font-family: "proximanova_extrabold.otf", sans-serif;
+  }
+
+  h1::before {
+    content: attr(data-text);
+    position: absolute;
+    bottom: 25px;
+    left: -20px;
+    color: #000f22;
+    font-size: 60px;
+    -webkit-text-stroke: 2px white;
+    text-shadow: none;
+    transform: translate3d(2px, 2px, 0);
+    opacity: 0.2;
+    z-index: -1;
+  }
+
+
+.button {
+    margin-top: 18px;
+    position: absolute;
+    font-size: 14px;
+    background-color: #9A855C;
+    padding: 14px 18px;
+    border-radius: 30px;
+    color: #fff;
+}
+
+.button-1 {
+    margin-top: 18px;
+    position: absolute;
+    font-size: 14px;
+    margin-left: 150px;
+    padding: 14px 38px;
+    border-radius: 30px;
+    color: #D4CFCF;
+    border: 3px solid #9A855C;
+}
+
+.info {
+    padding-top: 100px;
+    display: flex;
+}
+
+.gray {
+    color: #ABAAA6;
+}
+
+.blcok {
+    max-width: 250px;
+}
+
+.block-1 {
+    padding-left: 20px;
+    max-width: 300px;
+}
+
+.test {
+    padding-top: 100px;
+}
+
+.rectangle {
+    padding-left: 20px;
+    max-width: 1000px;
+    display: flex;
+    border-radius: 15px;
+    background-image: url("/img/atmosfera.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 #000, 0 0 70px #000, 0 0 80px #000;
+  }
+
+.rectangle-2 {
+    padding-left: 20px;
+    max-width: 1000px;
+    display: flex;
+    border-radius: 15px;
+    background-image: url("/img/auditorija.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 40px;
+  }
+  
+  .text {
+    text-align: center;
+    font-size: 18px;
+    max-width: 900px;
+  }
+
+  .text-2 {
+    font-size: 18px;
+    text-align: end;
+    max-width: 600px;
+    padding-left: 400px;
+  }
+ .h2 {
+    padding-left: 60px;
+    font-size: 60px;
+    line-height: 2px;
+  }
+
+.h3 {
+    line-height: 2px;
+    font-size: 60px;
+    padding-left: 20px;
+}
+
+.interes {
+    max-width: 200px;
+}
+
+.image{
+    border-radius: 15px;
+    position: absolute;
+    max-width: 650px;
+    max-height: 150px;
+    padding-left: 430px;
+    padding-top: 10px;
+}
+
+.image-2{
+    border-radius: 15px;
+    position: absolute;
+    max-width: 650px;
+    max-height: 150px;
+    padding-left: 430px;
+    padding-top: 180px;
+}
+
+.text {
+    top: 200px;
+}
+
+.top-100 {
+    padding-top: 100px;
+}
+.novigation {
+    font-size: 24px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+}
+
+.media {
+    display: flex;
+    position: absolute;
+    padding-bottom: 90px;
+    padding-left: 800px;
+}
+
+.telegram {
+    width: 60px;
+    height: 60px;
+    background-color: #13b0f7;
+    border-radius: 6px;
+    box-shadow: 0 0 #000, 0 0 10px #000, 0 0 10px #000;
+}
+
+.telegram i {
+    font-size: 120%;
+  }
+
+.vk {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    background-color: #a8b9f6;
+    border-radius: 6px;
+    box-shadow: 0 0 #000, 0 0 10px #000, 0 0 10px #000;
+}
+
+.vk i {
+    font-size: 140%;
+}
+
+.youtube {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    background-color: #e5365d;
+    border-radius: 6px;
+    box-shadow: 0 0 #000, 0 0 10px #000, 0 0 10px #000;
+}
+
+.youtube i {
+    font-size: 160%;
+}
+
