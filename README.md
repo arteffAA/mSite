@@ -10,7 +10,8 @@ The site is adapted to all types of devices, designed for sites with meynaft the
 
 <details>
   <summary>The main part of the context</summary>
-  <img src="https://github.com/arteffAA/mSite/assets/53447407/abb20e19-202f-46e6-ad57-6ffe54d6dcf8" alt="The main part of the context">
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/088b4a62-4e31-4770-b61f-aa87e3d640ed" alt="The main part of the context">
+
 </details>
 
 <details>
