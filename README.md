@@ -3,8 +3,14 @@ Multi-page site for your project meinkraft, has a flexible, easily editable and 
 
 The site is adapted to all types of devices, designed for sites with meynaft theme
 
-![image](https://github.com/arteffAA/mSite/assets/53447407/9fff2879-b978-4244-b594-808f11aeb7a8)
+<details>
+  <summary>Верхняя часть контекта</summary>
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/9fff2879-b978-4244-b594-808f11aeb7a8" alt="Изображение 1">
+</details>
 
-![image](https://github.com/arteffAA/mSite/assets/53447407/4ab4e9ca-bcba-4b68-b6e1-c973fe9f5484)
+<details>
+  <summary>>Основная часть контекта</summary>
+![image](https://github.com/arteffAA/mSite/assets/53447407/abb20e19-202f-46e6-ad57-6ffe54d6dcf8)
+</details>
 
 
