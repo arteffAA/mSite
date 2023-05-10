@@ -20,9 +20,16 @@ The site is adapted to all types of devices, designed for sites with meynaft the
 </details>
 
 <details>
+  <summary>About page</summary>
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/07e35a2d-d0ed-4882-9a46-65d0f86e6926" alt="about page">
+</details>
+
+
+<details>
   <summary>Adaptive version of the site</summary>
-<img src="https://github.com/arteffAA/mSite/assets/53447407/71c67fb5-cc88-4654-8753-34aad40031d9" alt="Adaptive version of the site">
-<img src="https://github.com/arteffAA/mSite/assets/53447407/ca77d82d-a730-4834-b5c5-71e86dfab70e" alt="Adaptive version of the site">
-<img src="https://github.com/arteffAA/mSite/assets/53447407/82214c2a-0b41-4071-a7f5-63a469507616" alt="Adaptive version of the site">
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/71c67fb5-cc88-4654-8753-34aad40031d9" alt="Adaptive version of the site">
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/ca77d82d-a730-4834-b5c5-71e86dfab70e" alt="Adaptive version of the site">
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/82214c2a-0b41-4071-a7f5-63a469507616" alt="Adaptive version of the site">
+  <img src="https://github.com/arteffAA/mSite/assets/53447407/030739a0-6a30-43a5-b346-fb092dec7d65" alt="Adaptive version about of the site">
 </details>
 
