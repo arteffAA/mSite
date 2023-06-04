@@ -5,8 +5,7 @@ The site is adapted to all types of devices, designed for sites with meynaft the
 
 <details>
   <summary>The top of the context</summary>
-  <img src="https://github.com/arteffAA/mSite/assets/53447407/66a1fe36-7a2d-436b-85df-e724a63a3de3
-" alt="The top of the context">
+  https://imgur.com/a/tJpVDiC
 </details>
 
 <details>
